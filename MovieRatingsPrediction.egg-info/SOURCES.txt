@@ -1,0 +1,7 @@
+setup.py
+MovieRatingsPrediction.egg-info/PKG-INFO
+MovieRatingsPrediction.egg-info/SOURCES.txt
+MovieRatingsPrediction.egg-info/dependency_links.txt
+MovieRatingsPrediction.egg-info/requires.txt
+MovieRatingsPrediction.egg-info/top_level.txt
+src/__init__.py
